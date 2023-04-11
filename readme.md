@@ -1,24 +1,24 @@
-## INSTRUÇÕES PARA O TESTE TÉCNICO
+## INSTRUï¿½ï¿½ES PARA O TESTE Tï¿½CNICO
 
 - Crie um fork deste projeto (https://github.com/CAPYS-IT/TesteJRBackend).
-  É preciso estar logado na sua conta Github;
-- Quando você começar, faça um commit vazio com a mensagem "Iniciando o teste de tecnologia" e quando terminar, faça o commit com uma mensagem "Finalizado o teste de tecnologia";
-- Commit após cada ciclo de refatoração pelo menos;
-- Não use branches;
-- Você deve prover evidências suficientes de que sua solução está completa indicando, no mínimo, que ela funciona;
-- Não há restrição quanto ao uso de bibliotecas de apoio;
+  ï¿½ preciso estar logado na sua conta Github;
+- Quando vocï¿½ comeï¿½ar, faï¿½a um commit vazio com a mensagem "Iniciando o teste de tecnologia" e quando terminar, faï¿½a o commit com uma mensagem "Finalizado o teste de tecnologia";
+- Commit apï¿½s cada ciclo de refatoraï¿½ï¿½o pelo menos;
+- Nï¿½o use branches;
+- Vocï¿½ deve prover evidï¿½ncias suficientes de que sua soluï¿½ï¿½o estï¿½ completa indicando, no mï¿½nimo, que ela funciona;
+- Nï¿½o hï¿½ restriï¿½ï¿½o quanto ao uso de bibliotecas de apoio;
 - No final envie para o RH o link do seu projeto.
 - Uso do Visual Studio 2022
-- Não a restrições de criação de bibliotecas para fazer as camadas do projeto.
+- Nï¿½o a restriï¿½ï¿½es de criaï¿½ï¿½o de bibliotecas para fazer as camadas do projeto.
 
-## TESTE PRÁTICO
+## TESTE PRï¿½TICO
 
  - Criar uma API utilizando todo seu conhecimento em .Net com as seguintes rotas
 
 ### Criar usuario
  - POST /api/v1/usuarios
 
-### Fazer Cadastro de produto
+### Cadastro de produto
  - POST /api/v1/produtos
 
 ### Buscar Produtos
@@ -32,12 +32,12 @@
 
 ### Criar rota para Autenticar Usuario
  - POST /api/v1/Authenticate
-### Utilizar Injeção de Dependência.
+### Utilizar Injeï¿½ï¿½o de Dependï¿½ncia.
 ### Fazer os testes de Unidade.
 ### Corrigir classes unificadas no mesmo arquivo
 
-## AVALIAÇÃO EXTRA
+## AVALIAï¿½ï¿½O EXTRA
 
-- Padrões REST.
-- Boas práticas.
+- Padrï¿½es REST.
+- Boas prï¿½ticas.
 - Estrutura de Codigo.
